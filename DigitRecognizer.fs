@@ -1,3 +1,6 @@
+(*
+ F# for Machine Learning Essentials.Chapter One
+*)
 open System
 open System.IO
 
